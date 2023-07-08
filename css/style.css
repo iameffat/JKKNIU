@@ -175,11 +175,11 @@ footer
 
 @font-face {
   font-family: 'SolaimanLipi';
-  src: url('https://boimate.com/jkkniu/fonts/SolaimanLipi.eot');
-  src: url('https://boimate.com/jkkniu/fonts/SolaimanLipi.woff') format('woff'),
-       url('https://boimate.com/jkkniu/fonts/SolaimanLipi.ttf') format('truetype'),
-       url('https://boimate.com/jkkniu/fonts/SolaimanLipi.svg') format('svg'),
-       url('https://boimate.com/jkkniu/fonts/SolaimanLipi.eot') format('embedded-opentype');
+  src: url('fonts/SolaimanLipi.eot');
+  src: url('fonts/SolaimanLipi.woff') format('woff'),
+       url('fonts/SolaimanLipi.ttf') format('truetype'),
+       url('fonts/SolaimanLipi.svg') format('svg'),
+       url('fonts/SolaimanLipi.eot') format('embedded-opentype');
 }
 
 
